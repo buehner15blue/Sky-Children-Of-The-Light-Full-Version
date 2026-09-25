@@ -247,4 +247,4 @@ This repository serves as the official landing page for Sky: Children of the Lig
 **Get the most recent version of Sky: Children of the Light today!**
 
 ---
-**Last updated:** 2026-09-25 17:42:53 UTC
+**Last updated:** 2026-09-25 20:58:46 UTC
